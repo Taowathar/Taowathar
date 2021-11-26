@@ -10,17 +10,19 @@
 
 <h4>  :envelope_with_arrow:	You can find me on : </h4>
 
-   [![Facebook][1.2]][1]  [![LinkedIn][2.2]][2]
+   [![Facebook][1.2]][1]  [![LinkedIn][2.2]][2]  [![Codewars][3.2]][3]
 
 <!-- Icons -->
 
-[1.2]: 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit
+[1.2]: 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[3.2]: https://img.shields.io/badge/Codewars-E34F26?style=for-the-badge&logo=codewars&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.facebook.com/roland.gulyas.50/
 [2]: https://www.linkedin.com/in/roland-gulyas/
+[3]: https://www.codewars.com/users/Taowathar
 
 ## Tech stack
 
